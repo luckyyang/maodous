@@ -18,3 +18,8 @@
 出现的问题：
 - git commit 信息要有意义
 - 撤销commit 可以用 git revert
+
+####贾旭
+项目链接:https://github.com/pp2codexu
+出现的问题:
+-第二个git commit的信息要有意义，要说明你这次commit都做了什么
