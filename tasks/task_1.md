@@ -12,3 +12,9 @@
 出现的问题：
 - 项目名字起的太好
 - 做事太认真
+
+#### 张登辉
+项目链接：https://github.com/zhangdenghui/ruby-on-rails
+出现的问题：
+- git commit 信息要有意义
+- 撤销commit 可以用 git revert
