@@ -18,3 +18,6 @@ https://github.com/luckyyang/maodous/blob/master/tasks/task_1.md
 - 学习如何写markdown：http://daringfireball.net/projects/markdown/
 
 ### 总结
+
+增加入门学习git的网站：http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+
