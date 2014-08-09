@@ -44,7 +44,7 @@
 - 做完任务 #1 的同学，将我给你们的评价发一个pull request到这个文件中：
 https://github.com/luckyyang/maodous/blob/master/tasks/task_1.md
 
-- 格式参考文件中的这一部分：
+- 格式参考[文件](https://github.com/luckyyang/maodous/blob/master/tasks/task_1.md)中的这一部分：
 
   ![image](https://cloud.githubusercontent.com/assets/1963646/3851158/9286d120-1e91-11e4-987a-ede5cebd9744.png)
 
