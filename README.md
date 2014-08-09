@@ -33,7 +33,7 @@
 - 在github创建一个项目（repository），命名一个有创意的名字 ----github
 - 本地做一次commit ----git
 - push 到github ------git/github
-- 将完成任务的链接放到对应任务的issue里 https://github.com/luckyyang/maodous/issues
+- 将完成任务的链接放到对应任务的issue里 https://github.com/luckyyang/maodous/issues/1
 
 ### [Task 2 - 在github上发pull request](tasks/task_2.md)
 #### 操作任务：
@@ -45,9 +45,13 @@
 https://github.com/luckyyang/maodous/blob/master/tasks/task_1.md
 
 - 格式参考文件中的这一部分：
+
 ![image](https://cloud.githubusercontent.com/assets/1963646/3851158/9286d120-1e91-11e4-987a-ede5cebd9744.png)
 
 #### 学习任务：
 - 以后要看完这里的所有视频 http://happycasts.net/episodes?tag_id=2
 - 这个月看完这本书的前3章：http://git-scm.com/book
 - 学习如何写markdown：http://daringfireball.net/projects/markdown/
+
+## 建议
+本项目是我个人为了更好的帮助0基础的初学者学习web开发而实践的一个想法，如果你有任何想法都可以和我交流，随时在项目中[发一个issue](https://github.com/luckyyang/maodous/issues/new) 我就可以收到邮件提醒了。欢迎任何的想法，哪怕是一句Say Hi～
