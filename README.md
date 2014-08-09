@@ -46,7 +46,7 @@ https://github.com/luckyyang/maodous/blob/master/tasks/task_1.md
 
 - 格式参考文件中的这一部分：
 
-![image](https://cloud.githubusercontent.com/assets/1963646/3851158/9286d120-1e91-11e4-987a-ede5cebd9744.png)
+  ![image](https://cloud.githubusercontent.com/assets/1963646/3851158/9286d120-1e91-11e4-987a-ede5cebd9744.png)
 
 #### 学习任务：
 - 以后要看完这里的所有视频 http://happycasts.net/episodes?tag_id=2
