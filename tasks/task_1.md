@@ -26,3 +26,8 @@
 项目链接:https://github.com/pp2codexu
 出现的问题:
 -第二个git commit的信息要有意义，要说明你这次commit都做了什么
+
+####卢炳随
+项目链接 ： https://github.com/hutsonlu/love-maodou
+
+-  任务1做的很好，没有什么补充的了。
