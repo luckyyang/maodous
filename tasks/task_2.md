@@ -19,5 +19,7 @@ https://github.com/luckyyang/maodous/blob/master/tasks/task_1.md
 
 ### 总结
 
-增加入门学习git的网站：http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
-
+#### 卢炳随
+- 项目链接：https://github.com/hutsonlu/love-maodou
+- 增加入门学习git的网站：http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+- 继续学习和熟悉git, github操作。
