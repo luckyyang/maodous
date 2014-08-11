@@ -31,3 +31,9 @@
 项目链接 ： https://github.com/hutsonlu/love-maodou
 
 -  任务1做的很好，没有什么补充的了。
+
+####魏治成
+项目链接:https://github.com/weizhicheng/maodou
+出现的问题：
+－git commit 要有内容
+－添加了一个rails项目，好也不好。
