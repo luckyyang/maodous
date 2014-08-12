@@ -57,5 +57,25 @@ https://github.com/luckyyang/maodous/blob/master/tasks/task_1.md
 - 这个月看完这本书的前3章：http://git-scm.com/book
 - 学习如何写markdown：http://daringfireball.net/projects/markdown/
 
+### [Task 3 - 使用codepen制作前端零部件](tasks/task_3.md)
+
+现在的flat ui很热门，我们就做一个flat ui的前端零部件来作为我们项目样式库的一部分，以后我们的项目如果要使用这样的零部件，我们就可以很快的拿出来了。
+
+#### 操作任务：
+- 在[Flat UI](http://designmodo.github.io/Flat-UI/)网站上找到下面的这个零部件：
+
+  ![image](https://cloud.githubusercontent.com/assets/1963646/3885851/1034ceb8-21cd-11e4-9cfd-4d920b8b1bcc.png)
+
+- 在[CodePen](http://codepen.io)上把这个零部件“抄”下来
+  - 先自己尝试做一下
+  - 如果做不出来，再参考源码
+
+- 将完成任务的codepen链接放到对应任务的[issue](https://github.com/luckyyang/maodous/issues/3)里
+
+#### 参考/学习资料
+- http://learn.shayhowe.com/html-css/
+- http://webdesign.tutsplus.com/courses/30-days-to-learn-html-css
+- http://css-tricks.com/category/beginner/
+
 ## 建议
 本项目是我个人为了更好的帮助0基础的初学者学习web开发而实践的一个想法，如果你有任何想法都可以和我交流，随时在项目中[发一个issue](https://github.com/luckyyang/maodous/issues/new) 我就可以收到邮件提醒了。欢迎任何的想法，哪怕是一句Say Hi～
